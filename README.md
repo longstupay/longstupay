@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @longstupay
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning matlab ,react
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
